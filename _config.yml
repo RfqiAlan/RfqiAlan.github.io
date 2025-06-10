@@ -19,8 +19,7 @@ title: Alan App # the main title
 tagline: APA bagus?  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Data Analytics, Machine Learning, and Artificial Intelligence enthusiast.
-  Sharing knowledge and insights on the latest trends and technologies in the field.
+  A minimal, responsive and feature-rich Jekyll theme for technical writing.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://RfqiAlan.github.io"
