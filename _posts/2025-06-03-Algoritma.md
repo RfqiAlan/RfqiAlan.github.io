@@ -19,3 +19,5 @@ Algoritma adalah serangkaian instruksi yang sistematis dan logis untuk meny
 1. N-Queens
 2. Sudoku
 
+
+Untuk mengunduh file PDF, klik [di sini](/assets/Essai.pdf).
