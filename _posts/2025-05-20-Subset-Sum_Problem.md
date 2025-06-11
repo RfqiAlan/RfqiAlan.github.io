@@ -1,14 +1,11 @@
 ---
 title: SUBSET SUM PROBLEM
 date: 2025-05-20
-categories: [DESAIN ANALISIS ALGORITMA, DYNAMIC PROGRAMMING, BACKTRACKING ALGORITHM]
-tags: [daa, algorithm, subset-sum, dynamic-programming]
+categories: [BACKTRACKING ALGORITHM]
+tags: [daa]
 ---
 
-# Presentasi Kelompok 6: Subset Sum Problem
-
-Masalah Subset Sum adalah salah satu masalah klasik dalam teori algoritma dan pemrograman yang berfokus pada pencarian subset dari sebuah himpunan angka yang jumlahnya sama dengan nilai target tertentu. Masalah ini digunakan dalam banyak aplikasi seperti kriptografi, pengelolaan sumber daya, dan perencanaan.
-
+![SUBSET SUM PROBLEM](/assets/K5.png){: width="500"}
 
 _---_
 

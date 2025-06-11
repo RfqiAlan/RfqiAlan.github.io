@@ -2,14 +2,13 @@
 title: DIJKSTRA'S ALGORITHM
 date: 2025-06-11
 categories: [GRAPH]
-tags: [daa, dijkstra]
+tags: [daa]
 ---
 
-# PRESENTASI KELOMPOK 7: DIJKSTRA'S ALGORITHM
 
-**Dijkstra's Algorithm** adalah algoritma pencarian jalur terpendek dari satu node sumber ke semua node lain dalam graf berbobot tanpa sisi negatif. Menggunakan pendekatan *greedy*, algoritma ini memilih jalur terpendek secara lokal pada setiap langkah, menjadikannya efisien untuk aplikasi seperti pemetaan rute, navigasi, dan analisis jaringan.
 
-<!-- ![Dijkstra's Algorithm Illustration](assets/pertemuan/klp10/Screenshot 2025-06-09 221303.jpg){: width="500"} -->
+
+![Dijkstra's Algorithm Illustration](/assets/K10.jpeg){: width="500"}
 
 ## Prinsip Dasar Dijkstra's Algorithm
 

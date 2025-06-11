@@ -2,14 +2,11 @@
 title: RAT IN THE MAZE PROBLEM
 date: 2025-05-27
 categories: [BACKTRACKING ALGORITHM]
-tags: [daa,  backtracking]
+tags: [daa, backtracking]
 ---
 
-# Presentasi Kelompok 6: Rat in the Maze Problem
 
-Masalah "Rat in the Maze" adalah salah satu masalah klasik dalam teori algoritma yang melibatkan pencarian jalur dari satu titik ke titik lainnya dalam sebuah matriks (labirin) dengan rintangan. Dalam masalah ini, seekor tikus harus mencari jalur dari posisi awal ke posisi tujuan, melewati rintangan yang ada. Masalah ini digunakan dalam berbagai aplikasi seperti pencarian jalur di graf dan robotika.
-
-<!-- ![Rat in the Maze](assets/pertemuan/klp6/Screenshot 2025-06-09 221153.jpg){: width="500"} -->
+![Rat in the Maze](assets/K6.jpeg){: width="500"}
 _---_
 
 # Penjelasan tentang Rat in the Maze Problem

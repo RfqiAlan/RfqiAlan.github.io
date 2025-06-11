@@ -2,22 +2,13 @@
 title: FRACTIONAL KNAPSACK
 date: 2025-05-05
 categories: [ GREEDY ALGORITHM]
-tags: [daa, greedy]
+tags: [daa]
 ---
-
-# Presentasi Kelompok 2: Fractional Knapsack Problem
-
-hola!!, setelah mempelajari Activity Selection Problem kita akan melanjutkan mempelajari **Fractional Knapsack** yang sama sama merupakan bagian dari greedy algorithm.
-
 ![Desktop View](/assets/K2.png){: width="500"}
-
 
 ## Definisi
 
-Masalah **Fractional Knapsack** adalah masalah optimisasi di mana kita memiliki sekumpulan barang dengan bobot dan nilai tertentu, dan kita harus memilih barang untuk dimasukkan ke dalam knapsack (tas ransel) dengan kapasitas terbatas. Berbeda dengan masalah **0/1 Knapsack**, dalam masalah fractional knapsack kita diperbolehkan untuk mengambil sebagian dari barang tersebut, bukan hanya memilih untuk mengambilnya sepenuhnya atau tidak sama sekali.
-
-Tujuan utama dari masalah ini adalah untuk memaksimalkan nilai total yang dimasukkan ke dalam knapsack, dengan memanfaatkan kapasitas yang terbatas. Oleh karena itu, dalam masalah fractional knapsack, barang yang memberikan nilai terbaik per satuan bobot harus diprioritaskan.
-
+Masalah Fractional Knapsack adalah masalah optimasi yang memungkinkan pengambilan sebagian dari barang untuk dimasukkan ke dalam tas dengan kapasitas terbatas, dengan tujuan memaksimalkan nilai total. Strategi yang digunakan adalah memilih barang berdasarkan nilai per satuan bobot tertinggi agar kapasitas digunakan seefisien mungkin.
 
 
 ## Algoritma Fractional Knapsack

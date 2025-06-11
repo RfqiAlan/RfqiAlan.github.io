@@ -2,20 +2,12 @@
 title: ACTIVITY SELECTION PROBLEM
 date: 2025-05-06
 categories: [GREEDY ALGORITHM]
-tags: [daa, greedy]
+tags: [daa]
 ---
-
-# Presentasi Kelompok 1: Activity Selection Problem
-
-Hola!. Kali ini kita akan membahas sebuah konsep fundamental dalam bidang algoritma dan optimasi, yaitu **Activity Selection Problem** yang merupakan bagian presentasi Kelompok 1.
-
 ![Desktop View](/assets/K1.png){: width="500"}
 _---_
 
-Masalah **Pemilihan Aktivitas** (*Activity Selection Problem*) merupakan contoh klasik dari permasalahan optimisasi yang kerap ditemui baik dalam kehidupan nyata maupun dalam sistem komputasi, di mana kita memiliki sekumpulan tugas atau aktivitas yang masing-masing memiliki waktu mulai dan selesai. Tantangan muncul ketika sumber daya terbatas—seperti satu ruangan rapat, satu prosesor, atau satu orang—hanya dapat menangani satu aktivitas pada satu waktu, sehingga kita perlu memilih subset aktivitas yang tidak saling tumpang tindih untuk memaksimalkan jumlah aktivitas yang dapat diselesaikan. Solusinya dapat dicapai dengan algoritma *greedy*, yaitu memilih aktivitas yang selesai paling awal untuk memberi ruang bagi aktivitas berikutnya. Memahami prinsip di balik *Activity Selection Problem* penting tidak hanya sebagai dasar algoritma, tetapi juga untuk penerapannya dalam penjadwalan kegiatan, manajemen proyek, dan pengelolaan waktu yang lebih baik.
-
-
-Mari kita selami lebih dalam untuk memahami bagaimana kita dapat secara efisien memilih aktivitas-aktivitas ini untuk memaksimalkan pemanfaatan sumber daya kita.
+Masalah Pemilihan Aktivitas (Activity Selection Problem) adalah masalah optimasi yang melibatkan pemilihan sejumlah aktivitas dengan waktu mulai dan selesai tertentu, agar tidak saling tumpang tindih, dan jumlah aktivitas yang dipilih maksimal. Tantangan ini muncul saat sumber daya terbatas, seperti satu ruangan atau prosesor, hanya dapat menangani satu aktivitas dalam satu waktu. Solusinya menggunakan algoritma greedy dengan memilih aktivitas yang selesai paling awal untuk memberi ruang bagi aktivitas lain. Masalah ini sering diterapkan dalam penjadwalan, manajemen proyek, dan pengelolaan waktu.
 
 ---
 

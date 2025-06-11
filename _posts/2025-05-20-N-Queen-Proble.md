@@ -2,15 +2,10 @@
 title: N-QUEENS PROBLEM
 date: 2025-05-20
 categories: [BACKTRACKING ALGORITHM]
-tags: [daa, backtracking]     
+tags: [daa]     
 ---
 
-
-# Presentasi Kelompok 4: N-Queen Problem
-
-Masalah N-Queen adalah salah satu masalah klasik dalam teori algoritma dan pemrograman, yang melibatkan penempatan N buah ratu pada papan catur berukuran N x N. Tujuannya adalah untuk menempatkan ratu-ratu tersebut sedemikian rupa sehingga tidak ada dua ratu yang saling menyerang satu sama lain, baik secara horizontal, vertikal, maupun diagonal.
-
-<!-- ![N-Queen Problem](assets/pertemuan/klp4/Screenshot 2025-06-09 221110.jpg){: width="500"} -->
+![N-Queen Problem](/assets/K4.png){: width="500"}
 _---_
 
 # Penjelasan tentang N-Queen Problem

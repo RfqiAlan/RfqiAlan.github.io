@@ -2,16 +2,13 @@
 title: HUFFMAN CODING
 date: 2025-05-20
 categories: [GREEDY ALGORITHM]
-tags: [daa, greedy]    
+tags: [daa]    
 ---
-HI!. Di era digital saat ini, di mana kita terus-menerus berinteraksi dengan sejumlah besar informasi—mulai dari teks, gambar, audio, hingga video—kebutuhan akan penyimpanan dan transmisi data yang efisien menjadi sangat krusial. Salah satu cara untuk mencapai efisiensi ini adalah melalui kompresi data. Kompresi data memungkinkan kita untuk mengurangi ukuran data asli tanpa kehilangan informasi penting, atau dengan kehilangan yang dapat diterima (tergantung jenis kompresinya).
 
-<!-- ![Desktop View](/assets/images/POST/PERTEMUAN3/Huffman Coding - 3Th Group DAA.jpg){: width="500"} -->
+![Desktop View](/assets/K3.png){: width="500"}
 _---_
 
-Kali ini, kita akan mempelajari salah satu algoritma kompresi data *lossless* (tanpa kehilangan data) yang paling fundamental dan banyak digunakan: **Huffman Coding**. Dikembangkan pada tahun 1952, algoritma ini telah menjadi dasar bagi banyak format kompresi yang kita gunakan sehari-hari, seperti ZIP, JPEG, dan MP3.
-
-Huffman Coding bekerja dengan prinsip cerdas dalam memberikan kode biner yang lebih pendek untuk karakter yang sering muncul, dan kode yang lebih panjang untuk karakter yang jarang muncul. Pendekatan ini memungkinkan pengurangan ukuran data secara signifikan. Mari kita selami lebih dalam bagaimana algoritma ini bekerja, mulai dari konsep dasar hingga implementasi dan simulasinya.
+Huffman Coding adalah algoritma kompresi data lossless yang efisien dan banyak digunakan sejak dikembangkan pada tahun 1952. Algoritma ini memberi kode biner yang lebih pendek untuk karakter yang sering muncul dan kode lebih panjang untuk karakter yang jarang muncul, sehingga ukuran data dapat dikompresi secara signifikan. Huffman Coding menjadi dasar berbagai format kompresi populer seperti ZIP, JPEG, dan MP3.
 
 ---
 

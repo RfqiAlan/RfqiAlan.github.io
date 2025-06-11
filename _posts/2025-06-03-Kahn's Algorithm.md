@@ -1,15 +1,11 @@
 ---
 title: KHAN'S ALGORITHM
-date: 2025-05-27
-categories: [GRAP]
+date: 2025-06-03
+categories: [GRAPH]
 tags: [daa]
 ---
 
-# PRESENTASI KELOMPOK 9: KHAN'S ALGORITHM
-
-Kahn's Algorithm termasuk dalam kategori algoritma graf, khususnya digunakan untuk melakukan topological sorting pada graf berarah tanpa siklus (DAG). Algoritma ini memastikan bahwa setiap simpul diproses hanya setelah semua simpul yang bergantung padanya selesai, sehingga sangat ideal untuk menyelesaikan masalah ketergantungan.
-
-<!-- ![Khan's Algorithm Illustration](assets/pertemuan/klp9/Screenshot 2025-06-09 221244.jpg){: width="500"} -->
+![Khan's Algorithm Illustration](assets/K9.jpeg){: width="500"}
 
 ## Prinsip Dasar Khan's Algorithm
 
